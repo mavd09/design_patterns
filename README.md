@@ -3,7 +3,7 @@
 | Creational | Structural | Behavioral |
 | --- | --- | --- |
 | Builder | Adapter | Chain of Responsibility |
-| Factories (Abstract | Method) | Bridge | Command |
+| Factories (Abstract \| Method) | Bridge | Command |
 | Prototype | Composite | Interpreter |
 | Singleton | Decorator | Iterator |
 | | Facade | Mediator |
