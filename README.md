@@ -1,7 +1,5 @@
 ### Design Patterns with C+
 
-| The Patterns |
-| --- |
 | Creational | Structural | Behavioral |
 | --- | --- | --- |
 | Builder | Adapter | Chain of Responsibility |
