@@ -1,5 +1,5 @@
 /*
- * Single Responsability Principle
+ * Single Responsibility Principle
  * 
  * Every class in a computer program should have responsability
  * over a single part of that program's functionality, which it
